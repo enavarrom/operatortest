@@ -1,6 +1,6 @@
 package com.appgate.test.operators.service;
 
-import com.appgate.test.operators.utilities.Operation;
+import com.appgate.test.operators.service.operation.Operator;
 
 public interface OperationService {
 
@@ -8,6 +8,8 @@ public interface OperationService {
 
   void addOperand(Double operand, String idSession) throws Exception;
 
-  Double executeOperation(Operation operation, String idSession);
+  Double executeOperation(Operator operator, String idSession);
+
+  void removeSession(String idSession);
 
 }

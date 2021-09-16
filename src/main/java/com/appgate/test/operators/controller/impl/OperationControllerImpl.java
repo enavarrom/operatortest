@@ -2,7 +2,7 @@ package com.appgate.test.operators.controller.impl;
 
 import com.appgate.test.operators.controller.OperationController;
 import com.appgate.test.operators.service.OperationService;
-import com.appgate.test.operators.utilities.Operation;
+import com.appgate.test.operators.service.operation.Operator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RestController;
@@ -30,7 +30,7 @@ public class OperationControllerImpl implements OperationController {
 
   @Override
   public ResponseEntity<Double> executeOperation(String operation, String idSession) {
-    return ResponseEntity.ok(operationService.executeOperation(Operation.valueOf(operation.toUpperCase()),
+    return ResponseEntity.ok(operationService.executeOperation(Operator.valueOf(operation.toUpperCase()),
         idSession
         ));
   }
