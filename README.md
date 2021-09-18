@@ -16,7 +16,7 @@ _Ejemplo de cálculo de operaciones sumas, restas, ...dado uno o varios operando
 
 ## Arquitectura
 
-![alt text](https://github.com/enavarrom/operatortest/blob/develop/DiagramClass.drawio.png?raw=false)
+![alt text](https://github.com/enavarrom/operatortest/blob/develop/DiagramClass.drawio.png?raw=true)
 
 
 
