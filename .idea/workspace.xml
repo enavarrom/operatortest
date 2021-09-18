@@ -23,42 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffbf5fd2-8d4b-43f5-8b14-78e0dea2619f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/controller/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/controller/exception/ExceptionControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/appgate/test/operators/controller/OperationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/appgate/test/operators/controller/impl/OperationControllerImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/appgate/test/operators/service/OperationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/appgate/test/operators/service/impl/OperationServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/appgate/test/operators/service/operation/OperationSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/appgate/test/operators/service/operation/OperationSession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/appgate/test/operators/service/impl/OperatorServiceImplTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.appgate.test.operators.service.impl.OperatorServiceImplTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.appgate.test.operators.service.impl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.appgate.test.operators.service.impl.OperatorServiceImplTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/controller/OperationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/controller/operation/OperationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/controller/impl/OperationControllerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/controller/operation/impl/OperationControllerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/OperationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/operation/OperationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/impl/OperationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/operation/impl/OperationServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/operation/ExecuteOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/operation/ExecuteOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/operation/OperationSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/operation/OperationSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/operation/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/appgate/test/operators/service/operation/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/appgate/test/operators/service/impl/OperatorServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/appgate/test/operators/service/operation/impl/OperatorServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +120,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.develop">
+  <component name="RunManager" selected="Gradle.operatortest [clean]">
     <configuration name="develop" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.appgate.test.operators.OperatorsApplication" />
       <module name="operators.main" />
@@ -181,25 +153,6 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.appgate.test.operators.service.operation.impl.OperatorServiceImplTest.whenExecuteOperationPotentiationWithConcurrentThreadsThenReturnResultTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="OperatorServiceImplTest.whenExecuteOperationThenReturnResultTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.appgate.test.operators.service.impl.OperatorServiceImplTest.whenExecuteOperationThenReturnResultTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -251,21 +204,40 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="operatortest [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.develop" />
       <item itemvalue="Gradle.OperatorServiceImplTest" />
       <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationPotentiationWithConcurrentThreadsThenReturnResultTest" />
-      <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationThenReturnResultTest" />
       <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationWithConcurrentThreadsSafeThenReturnResultTest" />
       <item itemvalue="Gradle.OperatorServiceImplTest.whenNotExistSessionThenThrowException" />
+      <item itemvalue="Gradle.operatortest [clean]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.operatortest [clean]" />
         <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationWithConcurrentThreadsSafeThenReturnResultTest" />
         <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationPotentiationWithConcurrentThreadsThenReturnResultTest" />
         <item itemvalue="Gradle.OperatorServiceImplTest" />
         <item itemvalue="Gradle.OperatorServiceImplTest.whenNotExistSessionThenThrowException" />
-        <item itemvalue="Gradle.OperatorServiceImplTest" />
       </list>
     </recent_temporary>
   </component>
@@ -333,22 +305,22 @@
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
     <state x="743" y="285" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1001@0.27.1920.1001" timestamp="1631759761275" />
-    <state width="1874" height="348" key="GridCell.Tab.0.bottom" timestamp="1631857059511">
+    <state width="1874" height="406" key="GridCell.Tab.0.bottom" timestamp="1631938638501">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state width="1874" height="348" key="GridCell.Tab.0.bottom/0.27.1920.1001@0.27.1920.1001" timestamp="1631857059511" />
-    <state width="1874" height="348" key="GridCell.Tab.0.center" timestamp="1631857059509">
+    <state width="1874" height="406" key="GridCell.Tab.0.bottom/0.27.1920.1001@0.27.1920.1001" timestamp="1631938638501" />
+    <state width="1874" height="406" key="GridCell.Tab.0.center" timestamp="1631938638496">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state width="1874" height="348" key="GridCell.Tab.0.center/0.27.1920.1001@0.27.1920.1001" timestamp="1631857059509" />
-    <state width="1874" height="348" key="GridCell.Tab.0.left" timestamp="1631857059509">
+    <state width="1874" height="406" key="GridCell.Tab.0.center/0.27.1920.1001@0.27.1920.1001" timestamp="1631938638496" />
+    <state width="1874" height="406" key="GridCell.Tab.0.left" timestamp="1631938638493">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state width="1874" height="348" key="GridCell.Tab.0.left/0.27.1920.1001@0.27.1920.1001" timestamp="1631857059509" />
-    <state width="1874" height="348" key="GridCell.Tab.0.right" timestamp="1631857059510">
+    <state width="1874" height="406" key="GridCell.Tab.0.left/0.27.1920.1001@0.27.1920.1001" timestamp="1631938638493" />
+    <state width="1874" height="406" key="GridCell.Tab.0.right" timestamp="1631938638498">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
-    <state width="1874" height="348" key="GridCell.Tab.0.right/0.27.1920.1001@0.27.1920.1001" timestamp="1631857059510" />
+    <state width="1874" height="406" key="GridCell.Tab.0.right/0.27.1920.1001@0.27.1920.1001" timestamp="1631938638498" />
     <state width="1874" height="348" key="GridCell.Tab.1.bottom" timestamp="1631857059513">
       <screen x="0" y="27" width="1920" height="1001" />
     </state>
