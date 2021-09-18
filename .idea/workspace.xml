@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffbf5fd2-8d4b-43f5-8b14-78e0dea2619f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="operators" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="operators" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="operators" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1y7A3daHqu609G9RBarMj0k4uje" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.appgate.test.operators.service.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.appgate.test.operators.controller.config" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.operatortest [clean]">
+    <configuration name="develop" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.appgate.test.operators.OperatorsApplication" />
+      <module name="operators.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorServiceImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.appgate.test.operators.service.operation.impl.OperatorServiceImplTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OperatorServiceImplTest.whenExecuteOperationPotentiationWithConcurrentThreadsThenReturnResultTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.appgate.test.operators.service.operation.impl.OperatorServiceImplTest.whenExecuteOperationPotentiationWithConcurrentThreadsThenReturnResultTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OperatorServiceImplTest.whenExecuteOperationWithConcurrentThreadsSafeThenReturnResultTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.appgate.test.operators.service.operation.impl.OperatorServiceImplTest.whenExecuteOperationWithConcurrentThreadsSafeThenReturnResultTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OperatorServiceImplTest.whenNotExistSessionThenThrowException" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.appgate.test.operators.service.operation.impl.OperatorServiceImplTest.whenNotExistSessionThenThrowException&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="operatortest [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.develop" />
+      <item itemvalue="Gradle.OperatorServiceImplTest" />
+      <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationPotentiationWithConcurrentThreadsThenReturnResultTest" />
+      <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationWithConcurrentThreadsSafeThenReturnResultTest" />
+      <item itemvalue="Gradle.OperatorServiceImplTest.whenNotExistSessionThenThrowException" />
+      <item itemvalue="Gradle.operatortest [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.operatortest [clean]" />
+        <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationWithConcurrentThreadsSafeThenReturnResultTest" />
+        <item itemvalue="Gradle.OperatorServiceImplTest.whenExecuteOperationPotentiationWithConcurrentThreadsThenReturnResultTest" />
+        <item itemvalue="Gradle.OperatorServiceImplTest" />
+        <item itemvalue="Gradle.OperatorServiceImplTest.whenNotExistSessionThenThrowException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffbf5fd2-8d4b-43f5-8b14-78e0dea2619f" name="Default Changelist" comment="" />
+      <created>1631592055208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631592055208</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="105" width="1024" height="852" key="#Project_Structure" timestamp="1631854198440">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="443" y="105" width="1024" height="852" key="#Project_Structure/0.27.1920.1001@0.27.1920.1001" timestamp="1631854198440" />
+    <state x="418" y="185" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631853998737">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="418" y="185" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1631853998737" />
+    <state x="768" y="235" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1631806129404">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="768" y="235" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1001@0.27.1920.1001" timestamp="1631806129404" />
+    <state x="692" y="332" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1631853984676">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="692" y="332" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1631853984676" />
+    <state x="439" y="452" width="1062" height="158" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1631829425935">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="439" y="452" width="1062" height="158" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1631829425935" />
+    <state x="568" y="27" width="774" height="1001" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1631811534107">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="568" y="27" width="774" height="1001" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1631811534107" />
+    <state x="693" y="276" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631802049382">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="693" y="276" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1631802049382" />
+    <state x="745" y="385" key="#xdebugger.evaluate" timestamp="1631834306274">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="745" y="385" key="#xdebugger.evaluate/0.27.1920.1001@0.27.1920.1001" timestamp="1631834306274" />
+    <state width="565" height="506" key="DebuggerActiveHint" timestamp="1631851038243">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="565" height="506" key="DebuggerActiveHint/0.27.1920.1001@0.27.1920.1001" timestamp="1631851038243" />
+    <state x="743" y="285" width="424" height="491" key="FileChooserDialogImpl" timestamp="1631759761275">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="743" y="285" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1001@0.27.1920.1001" timestamp="1631759761275" />
+    <state width="1874" height="406" key="GridCell.Tab.0.bottom" timestamp="1631938638501">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1874" height="406" key="GridCell.Tab.0.bottom/0.27.1920.1001@0.27.1920.1001" timestamp="1631938638501" />
+    <state width="1874" height="406" key="GridCell.Tab.0.center" timestamp="1631938638496">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1874" height="406" key="GridCell.Tab.0.center/0.27.1920.1001@0.27.1920.1001" timestamp="1631938638496" />
+    <state width="1874" height="406" key="GridCell.Tab.0.left" timestamp="1631938638493">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1874" height="406" key="GridCell.Tab.0.left/0.27.1920.1001@0.27.1920.1001" timestamp="1631938638493" />
+    <state width="1874" height="406" key="GridCell.Tab.0.right" timestamp="1631938638498">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1874" height="406" key="GridCell.Tab.0.right/0.27.1920.1001@0.27.1920.1001" timestamp="1631938638498" />
+    <state width="1874" height="348" key="GridCell.Tab.1.bottom" timestamp="1631857059513">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1874" height="348" key="GridCell.Tab.1.bottom/0.27.1920.1001@0.27.1920.1001" timestamp="1631857059513" />
+    <state width="1874" height="348" key="GridCell.Tab.1.center" timestamp="1631857059512">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1874" height="348" key="GridCell.Tab.1.center/0.27.1920.1001@0.27.1920.1001" timestamp="1631857059512" />
+    <state width="1874" height="348" key="GridCell.Tab.1.left" timestamp="1631857059512">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1874" height="348" key="GridCell.Tab.1.left/0.27.1920.1001@0.27.1920.1001" timestamp="1631857059512" />
+    <state width="1874" height="348" key="GridCell.Tab.1.right" timestamp="1631857059513">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state width="1874" height="348" key="GridCell.Tab.1.right/0.27.1920.1001@0.27.1920.1001" timestamp="1631857059513" />
+    <state x="182" y="116" width="1536" height="837" key="MergeDialog" timestamp="1631814964049">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="182" y="116" width="1536" height="837" key="MergeDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1631814964049" />
+    <state x="591" y="290" width="728" height="482" key="MultipleFileMergeDialog" timestamp="1631815060027">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="591" y="290" width="728" height="482" key="MultipleFileMergeDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1631815060027" />
+    <state x="449" y="162" width="1022" height="737" key="SettingsEditor" timestamp="1631854131315">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="449" y="162" width="1022" height="737" key="SettingsEditor/0.27.1920.1001@0.27.1920.1001" timestamp="1631854131315" />
+    <state x="655" y="321" width="599" height="419" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1631762856991">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="655" y="321" width="599" height="419" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1920.1001@0.27.1920.1001" timestamp="1631762856991" />
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1631852659078">
+      <screen x="0" y="27" width="1920" height="1001" />
+    </state>
+    <state x="623" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1001@0.27.1920.1001" timestamp="1631852659078" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/appgate/test/operators/service/operation/impl/OperatorServiceImplTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/appgate/test/operators/controller/operation/impl/OperationControllerImpl.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/operators$OperatorServiceImplTest.ic" NAME="OperatorServiceImplTest Coverage Results" MODIFIED="1631829777328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
