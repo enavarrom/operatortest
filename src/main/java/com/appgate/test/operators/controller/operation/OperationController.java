@@ -1,6 +1,8 @@
-package com.appgate.test.operators.controller;
+package com.appgate.test.operators.controller.operation;
 
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * @author enavarro
@@ -20,15 +22,15 @@ public interface OperationController {
    * @param idSession String with the session id
    * @return ResponseEntity<Void> Empty response
    */
-  ResponseEntity<Void> addOperand(Double operand, String idSession);
+  ResponseEntity<Void> addOperand(@RequestParam Double operand, @RequestParam String idSession);
 
   /**
    * Method to perform the operation
-   * @param operation A String value with the operation to perform. (Values: sum, substraction,
+   * @param operator A String value with the operation to perform. (Values: sum, substraction,
    *                  multiplication, divition, potentiation).
    * @param idSession String with the session id
    * @return A ResponseEntity<Double> with the result of the operation performed.
    */
-  ResponseEntity<Double> executeOperation(String operation, String idSession);
+  ResponseEntity<Double> executeOperation(@PathVariable String operator, @PathVariable String idSession);
 
 }

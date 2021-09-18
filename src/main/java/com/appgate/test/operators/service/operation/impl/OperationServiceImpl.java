@@ -1,10 +1,10 @@
-package com.appgate.test.operators.service.impl;
+package com.appgate.test.operators.service.operation.impl;
 
-import com.appgate.test.operators.service.OperationService;
-import com.appgate.test.operators.service.operation.Operator;
+import com.appgate.test.operators.service.operation.OperationService;
 import com.appgate.test.operators.service.operation.OperationSession;
-import java.util.HashMap;
+import com.appgate.test.operators.service.operation.Operator;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 import org.springframework.stereotype.Service;
 
 /**
@@ -17,7 +17,7 @@ public class OperationServiceImpl implements OperationService {
   private Map<String, OperationSession> operationSessionMap;
 
   public OperationServiceImpl() {
-    operationSessionMap = new HashMap<>();
+    operationSessionMap = new ConcurrentHashMap<>();
   }
 
   @Override
@@ -49,7 +49,7 @@ public class OperationServiceImpl implements OperationService {
 
   private void validateSession(String idSession) {
     if (!operationSessionMap.containsKey(idSession)) {
-      throw new IllegalArgumentException("Not session available. Please you must to create a new session");
+      throw new IllegalArgumentException(String.format("Not exist session with Id: %s", idSession));
     }
   }
 
