@@ -2,7 +2,9 @@ package com.appgate.test.operators.controller.exception;
 
 import static org.springframework.http.HttpStatus.INTERNAL_SERVER_ERROR;
 import static org.springframework.http.HttpStatus.PRECONDITION_FAILED;
+import static org.springframework.http.HttpStatus.TOO_MANY_REQUESTS;
 
+import io.github.resilience4j.ratelimiter.RequestNotPermitted;
 import java.io.IOException;
 import javax.servlet.http.HttpServletResponse;
 import lombok.extern.slf4j.Slf4j;
@@ -31,5 +33,15 @@ public class ExceptionControllerAdvice {
     return ResponseEntity.status(INTERNAL_SERVER_ERROR)
         .header("error", "The: " + exceptionName + ", was thrown by the server when processing the request").header("requestUri", "GENEX").build();
   }
+
+  @ExceptionHandler(RequestNotPermitted.class)
+  @ResponseBody
+  public ResponseEntity<Void> notPermittedRequests(Exception ex) {
+    log.error(ex.getMessage(), ex);
+    String exceptionName = ex.getClass().getCanonicalName();
+    return ResponseEntity.status(TOO_MANY_REQUESTS)
+        .header("error", "The: " + exceptionName + ", was thrown by the server when processing the request").header("requestUri", "GENEX").build();
+  }
+
 
 }
