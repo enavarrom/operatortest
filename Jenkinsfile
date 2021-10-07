@@ -22,13 +22,25 @@ pipeline {
 
         stage('Test') {
             steps {
-                echo "gradle test"
+                sh "gradle test"
             }
         }
 
         stage('Analyze & Coverage') {
             steps {
                 echo "Analyze & Coverage"
+            }
+        }
+
+        stage('Build Image') {
+            steps {
+                 sh "gradle bootBuildImage"
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo "Deploying in ....."
             }
         }
     }
